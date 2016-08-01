@@ -2,7 +2,7 @@
 layout:     post
 title:      "BG 瓜皮"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
+date:       2016-08-01 12:00:00
 author:     "Da Fu"
 header-img: "img/post-bg-js-module.jpg"
 tags:
