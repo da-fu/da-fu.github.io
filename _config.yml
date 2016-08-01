@@ -3,7 +3,7 @@ title: Da Fu's Blog
 SEOTitle: 你的博客 | Your Blog
 header-img: img/home-bg.jpg
 email: da.fu@mail.utoronto.ca
-description: ""
+description: "Da's personal site"
 keyword: ""
 url: "da-fu.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,11 +12,11 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
+weibo_username:     1276296882
+zhihu_username:     dafu.battleship
+github_username:    da-fu
 #twitter_username:  huxpro
-facebook_username:  huxpro
+facebook_username:  dafu.battleship
 
 
 
