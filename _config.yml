@@ -48,7 +48,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_shortname: da-fu
+disqus_username: da-fu
 #disqus_share: true
 
 # Duoshuo settings
