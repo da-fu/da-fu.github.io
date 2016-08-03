@@ -11,9 +11,9 @@ tags:
 
 > "This blog is based on Github Pages and Jekyll"
 
-After applying for the develope package for students on Github. I was granted a free domain and this engaged me on building my first personal website.
+After applying for the developer package for students on Github. I was granted a free domain and this engaged me on building my first personal website.
 
-At first I wanted to deploy the blog on (about.me), but the interface is not really customizable and the fee is pretty expensive. So I decided to deploy the blog on Github Pages because why not ;) After some research I found that Github can automatically compile the sites based on Jekyll and display it. Then I started to build my first personal website.
+At first I wanted to deploy the blog on [about.me](about.me), but the interface is not really customizable and the fee is pretty expensive. So I decided to deploy the blog on Github Pages because why not ;) After some research I found that Github can automatically compile the sites based on Jekyll and display it. Then I started to build my first personal website.
 
 I have encountered some problems while building the site. I want to first thank Hux for providing such a magnificent boilerplate based on Jekyll. As a beginner in web developing, this saved me a lot of time and made me confident about building websites. But during the development, I forgot to change the absolute url for the site which caused the images failed to load when being compiled by Github Pages. Thankfully I didn't quit just because of this minor mistake.
 
